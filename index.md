@@ -43,4 +43,4 @@ for(let participante of participantes) {
  output = output + criarNovoParticipante(participante)
 }
 
-# CSS
+
